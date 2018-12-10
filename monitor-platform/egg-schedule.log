@@ -1,0 +1,16 @@
+2018-09-01 20:55:18,908 INFO 6914 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-02 00:00:00.000
+2018-09-01 20:55:18,909 INFO 6914 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-02 00:00:01.000
+2018-09-02 14:07:13,818 INFO 7245 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-03 00:00:00.000
+2018-09-02 14:07:13,819 INFO 7245 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-03 00:00:01.000
+2018-09-02 15:10:25,030 INFO 1287 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-03 00:00:00.000
+2018-09-02 15:10:25,031 INFO 1287 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-03 00:00:01.000
+2018-09-05 11:25:16,993 INFO 15295 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-06 00:00:00.000
+2018-09-05 11:25:16,994 INFO 15295 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-06 00:00:01.000
+2018-09-05 11:35:02,483 INFO 15407 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-06 00:00:00.000
+2018-09-05 11:35:02,484 INFO 15407 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-06 00:00:01.000
+2018-09-05 11:37:14,617 INFO 15495 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-06 00:00:00.000
+2018-09-05 11:37:14,617 INFO 15495 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-06 00:00:01.000
+2018-09-05 16:30:54,786 INFO 17664 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-06 00:00:00.000
+2018-09-05 16:30:54,787 INFO 17664 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-06 00:00:01.000
+2018-09-05 16:37:05,727 INFO 17788 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-06 00:00:00.000
+2018-09-05 16:37:05,728 INFO 17788 [Timer] /Users/wuxiaoxiao/Documents/work/wetime-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-06 00:00:01.000
